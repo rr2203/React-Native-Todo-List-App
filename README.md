@@ -1,6 +1,6 @@
 # Todo List App using React Native
 
-A simple todo list app built with React Native. Users can add tasks, delete tasks, and mark tasks as complete. The app features a clean and user-friendly interface.
+A todo list app built from scratch with React Native. Users can add tasks, delete tasks, and mark tasks as complete. The app features a clean and user-friendly interface.
 
 ## Installation
 
